@@ -7,7 +7,6 @@ If the execution ends or any print starting by `Error` is detected, it will grac
 
 All you need to do is to add those few lines at the beginning of your script
 ```python
-import time
 import atexit
 import sys
 
