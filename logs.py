@@ -3,7 +3,6 @@ import sys
 import json
 import uuid
 import os
-import atexit
 
 from datetime import datetime
 
